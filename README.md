@@ -1,6 +1,5 @@
-
 <!DOCTYPE html>
-<html# dimasdann.github.io lang="en">
+<html lang="en">
 	<head>
 	  <title>DANN</title>
 	  <meta charset="utf-8">
@@ -11,7 +10,7 @@
 	  	body{
 	  		overflow: hidden;
 	  		background: black;
-	  		: 100%;
+	  		width: 100%;
 	  		height: 100vh;
 	  	}
 	  	.bg{
