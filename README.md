@@ -1,4 +1,4 @@
-# dimasdann.github.io
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -11,7 +11,7 @@
 	  	body{
 	  		overflow: hidden;
 	  		background: black;
-	  		width: 100%;
+	  		: 100%;
 	  		height: 100vh;
 	  	}
 	  	.bg{
