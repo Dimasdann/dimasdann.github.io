@@ -1,5 +1,3 @@
-DANN
-<!DOCTYPE html>
 <html lang="en">
 	<head>
 	  <title>DANN</title>
